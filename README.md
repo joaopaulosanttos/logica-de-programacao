@@ -1,2 +1,3 @@
-# logica-de-programacao
- Construindo base sólida de conceitos de lógica de programação 
+# Lógica de programação: 
+ 
+ Repositório criado para a construção de uma base sólida sobre conceitos de programação. 
